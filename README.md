@@ -6,7 +6,7 @@ Description
 
 This program converts all **FLV** and **MKV** video files in a directory to the **MP4** container format. The resulting MP4 format is suitable for playback on a range of devices including iOS (iPhone and iPad), Android, and Playstation 3.
 
-Efficient conversion is accomplished by copying the video stream (H.264) and transcoding the audio stream to AAC if necessary.
+Efficient conversion is accomplished by copying the video (H.264) and audio streams. The audio stream will be transcoded to AAC if necessary.
 
 Requirements
 --------
